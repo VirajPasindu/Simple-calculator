@@ -1,0 +1,5 @@
+print("1 - Add")
+print("2 - Substract")
+print("3 - Multiply")
+print("4 - Divide")
+print("choose an operation: ")

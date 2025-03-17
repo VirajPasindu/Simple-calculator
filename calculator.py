@@ -9,7 +9,6 @@ if(option in [1,2,3,4]):
     num2 = int(input("Enter seccond number: "))
     
     if(option == 1):
-        
         result = num1 + num2
     elif(option == 2):
         result = num1 - num2
